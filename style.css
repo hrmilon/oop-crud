@@ -1,0 +1,77 @@
+td {
+  padding: 6px;
+  text-align: center;
+  color: black;
+  font-style: bold;
+}
+table {
+  width: 100%;
+}
+
+tr {
+  background-color: rgb(187,187,187);
+}
+
+button.del {
+  background-color: rgb(217,0,1);
+  color: white;
+  font-size: 15px;
+  padding: 8px;
+  width: 60px;
+  height: 35px;
+  border: 0px;
+  text-decoration: none;
+  margin-bottom: 2px;
+}
+
+button.edit {
+  background-color: rgb(53,217,0);
+  color: white;
+  font-size: 15px;
+  padding: 8px;
+  width: 60px;
+  height: 35px;
+  border: 0px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.add {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.add .btn {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 7px; 
+}
+
+
+.addphp {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
+
+.field {
+  margin-top: 10px;
+}
+
+.field .ad {
+  margin-top: 4px;
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  border: 0px;
+  width: 60px;
+  font-size: 14px;
+}
